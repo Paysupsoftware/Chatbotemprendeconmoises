@@ -28,9 +28,6 @@ npm create builderbot@latest
 ```
 
 
-## Documentation
-
-Visit [builderbot](https://builderbot.vercel.app/) to view the full documentation.
 
 
 
