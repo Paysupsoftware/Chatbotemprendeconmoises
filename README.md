@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://builderbot.vercel.app/">
+  <a href="https://www.youtube.com/@MoisesRomeroemprendeconmoises">
     <picture>
-      <img src="https://builderbot.vercel.app/assets/thumbnail-vector.png" height="80">
+      <img src="https://github.com/paysup/Z1Chatbot/blob/main/z1.jpg" height="80">
     </picture>
-    <h2 align="center">BuilderBot</h2>
+    <h2 align="center">BotEmprendeconmoises</h2>
   </a>
 </p>
 
@@ -33,12 +33,6 @@ npm create builderbot@latest
 Visit [builderbot](https://builderbot.vercel.app/) to view the full documentation.
 
 
-## Official Course
-
-If you want to discover all the functions and features offered by the library you can take the course.
-[View Course](https://app.codigoencasa.com/courses/builderbot?refCode=LEIFER)
 
 
-## Contact Us
-- [💻 Discord](https://link.codigoencasa.com/DISCORD)
-- [👌 𝕏 (Twitter)](https://twitter.com/leifermendez)
+
